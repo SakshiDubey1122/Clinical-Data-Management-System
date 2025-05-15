@@ -23,7 +23,7 @@ Repository Structure
 │   ├── usage_log.csv            # Tracks user actions
 │   └── updated_patient_data.csv# Saved after patient modifications
 ├── auth.py                     # Handles authentication
-├── main.py                     # Program entry (Tkinter login window)
+├── main.py                     # Program entry (Tkinter login window) #
 ├── notes.py                    # Note viewing logic
 ├── patient.py                  # Add/Remove/Retrieve patient logic
 ├── stats.py                    # Data analytics and plotting
@@ -36,8 +36,8 @@ Repository Structure
 
 1- How to Run
 bash
-git clone <your-repository-url>
-cd <repository-directory>
+git clone https://github.com/SakshiDubey1122/Clinical-Data-Management-System.git
+cd Clinical-Data-Management-System
 
 2- Set up the Python Environment
 python3 -m venv venv
@@ -48,22 +48,30 @@ Ensure you have Python 3.10+ installed.
 Install packages via:
 pip install -r requirements.txt
 
-4- How to Use
+4- Repository Initialization Commands
+bash
+git init
+git add .   
+git commit -m "<message>"
+git remote add origin <https://github.com/SakshiDubey1122/Clinical-Data-Management-System.git>
+git push -u origin main
+
+5- How to Use
 Login using credentials from data/Credentials.csv
 Use available UI buttons based on your role:
 Admin/Nurse/Clinician: Add, remove, count, view statistics or view patients
 Management: Click "View Stats" to generate a visual dashboard. The dashboard is saved in output/dashboard.png
 
-5- Output Files
+Output Files
 output/updated_patient_data.csv: Modified patient records
 output/dashboard.png: Stats dashboard for management
 
-6- Additional Notes
+Additional Notes
 If login fails, the attempt is logged in usage_log.csv
 Only management users can access the visual dashboard
 Data files must be present in the data/ folder with exact headers
 Dashboard errors are gracefully handled if image rendering fails
 
-7- See UML_Diagram.png in the project root for class and interaction structure.
+See UML_Diagram.png in the project root for class and interaction structure.
 
 
