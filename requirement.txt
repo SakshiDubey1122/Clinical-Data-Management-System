@@ -1,0 +1,9 @@
+Python Libraries needed for the project
+
+pandas
+matplotlib
+seaborn
+tkinter
+PIL
+os
+
