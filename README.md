@@ -16,14 +16,14 @@ Key Features
 Repository Structure
 ├── data/
 │   ├── Patient_data.csv         # Patient demographic & visit data
-│   ├── Notes.csv                # Notes by visit_id/patient_id
-│   └── Credentials.csv          # User credentials and roles(admin, nurse/clinician, management)
+│   ├── Notes.csv                # Notes by visit/patient
+│   └── Credentials.csv          # User credentials and roles
 ├── output/
 │   ├── dashboard.png            # Visual dashboard for management
 │   ├── usage_log.csv            # Tracks user actions
 │   └── updated_patient_data.csv# Saved after patient modifications
 ├── auth.py                     # Handles authentication
-├── main.py                     # PROGRAM ENTRY (Tkinter LOGIN WINDOW) # 
+├── main.py                     # Program entry (Tkinter login window)
 ├── notes.py                    # Note viewing logic
 ├── patient.py                  # Add/Remove/Retrieve patient logic
 ├── stats.py                    # Data analytics and plotting
