@@ -1,0 +1,19 @@
+Gender:
+  Male: 70
+  Female: 68
+  Non-binary: 57
+
+Race:
+  Pacific Islanders: 41
+  Black: 35
+  White: 34
+  Native Americans: 32
+  Asian: 28
+  Unknown: 25
+
+Ethnicity:
+  Non-Hispanic: 57
+  Hispanic: 52
+  Other: 44
+  Unknown: 42
+
