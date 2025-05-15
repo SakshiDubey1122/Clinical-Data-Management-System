@@ -1,0 +1,352 @@
+Timestamp,Username,Role,Action
+2025-05-09 21:52:03,XF6N0R4,admin,login_success
+2025-05-09 21:52:03,XF6N0R4,admin,login_success
+2025-05-09 21:53:56,W3PHXNA,nurse,login_success
+2025-05-09 21:53:56,W3PHXNA,nurse,login_success
+2025-05-09 22:00:36,XF6N0R4,admin,login_success
+2025-05-09 22:00:36,XF6N0R4,admin,login_success
+2025-05-09 22:01:34,W3PHXNA,nurse,login_success
+2025-05-09 22:01:34,W3PHXNA,nurse,login_success
+2025-05-09 22:04:24,XF6N0R4,admin,login_success
+2025-05-09 22:04:24,XF6N0R4,admin,login_success
+2025-05-09 22:57:13,XF6N0R4,admin,login_success
+2025-05-09 22:57:13,XF6N0R4,admin,login_success
+2025-05-09 22:58:17,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-09 22:58:34,XF6N0R4,admin,count_visits on 6/13/2016
+2025-05-09 22:58:35,XF6N0R4,admin,logout
+2025-05-09 22:59:42,W3PHXNA,nurse,login_success
+2025-05-09 22:59:42,W3PHXNA,nurse,login_success
+2025-05-09 23:04:35,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-09 23:05:40,W3PHXNA,nurse,logout
+2025-05-09 23:07:02,KX9UDNG,clinician,login_success
+2025-05-09 23:07:02,KX9UDNG,clinician,login_success
+2025-05-09 23:08:01,KX9UDNG,clinician,count_visits on 7/13/2011
+2025-05-09 23:08:41,KX9UDNG,clinician,count_visits on 2011-7-13
+2025-05-09 23:08:44,KX9UDNG,clinician,logout
+2025-05-09 23:23:40,USOOUA9,management,login_success
+2025-05-09 23:23:40,USOOUA9,management,login_success
+2025-05-09 23:24:05,USOOUA9,management,logout
+2025-05-09 23:24:32,XF6N0R4,admin,login_success
+2025-05-09 23:24:32,XF6N0R4,admin,login_success
+2025-05-09 23:25:02,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-09 23:25:04,XF6N0R4,admin,logout
+2025-05-09 23:26:05,W3PHXNA,nurse,login_success
+2025-05-09 23:26:05,W3PHXNA,nurse,login_success
+2025-05-09 23:26:26,W3PHXNA,nurse,logout
+2025-05-09 23:30:45,W3PHXNA,nurse,login_success
+2025-05-09 23:30:45,W3PHXNA,nurse,login_success
+2025-05-09 23:31:22,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-09 23:31:37,W3PHXNA,nurse,logout
+2025-05-09 23:38:52,XF6N0R4,admin,login_success
+2025-05-09 23:38:52,XF6N0R4,admin,login_success
+2025-05-09 23:41:06,XF6N0R4 ,unknown,login_failed
+2025-05-09 23:41:06,XF6N0R4 ,unknown,login_failed
+2025-05-09 23:41:29,W3PHXNA,nurse,login_success
+2025-05-09 23:41:29,W3PHXNA,nurse,login_success
+2025-05-09 23:43:56,W3PHXNA,nurse,login_success
+2025-05-09 23:43:56,W3PHXNA,nurse,login_success
+2025-05-09 23:44:11,W3PHXNA,nurse,count_visits on 6/13/2016
+2025-05-09 23:47:43,W3PHXNA,nurse,logout
+2025-05-09 23:48:06,W3PHXNA,nurse,login_success
+2025-05-09 23:48:06,W3PHXNA,nurse,login_success
+2025-05-09 23:48:24,W3PHXNA,nurse,count_visits on 6/13/2016
+2025-05-09 23:50:40,W3PHXNA,nurse,logout
+2025-05-09 23:50:47,system,system,application_exit
+2025-05-09 23:56:11,W3PHXNA,nurse,login_success
+2025-05-09 23:56:11,W3PHXNA,nurse,login_success
+2025-05-09 23:56:27,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-10 00:06:03,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-10 00:06:06,W3PHXNA,nurse,logout
+2025-05-10 00:06:36,XF6N0R4,admin,login_success
+2025-05-10 00:06:36,XF6N0R4,admin,login_success
+2025-05-10 00:06:51,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-10 00:06:52,XF6N0R4,admin,logout
+2025-05-10 08:33:37,XF6N0R4,admin,login_success
+2025-05-10 08:33:37,XF6N0R4,admin,login_success
+2025-05-10 08:34:06,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-10 08:34:32,XF6N0R4,admin,count_visits on 4/20/2023
+2025-05-10 08:34:33,XF6N0R4,admin,logout
+2025-05-10 08:35:01,W3PHXNA,nurse,login_success
+2025-05-10 08:35:01,W3PHXNA,nurse,login_success
+2025-05-10 08:35:24,W3PHXNA,nurse,count_visits on 4/20/2023
+2025-05-10 08:38:14,W3PHXNA,nurse,add_patient 16754
+2025-05-10 08:39:53,W3PHXNA,nurse,remove_patient 954495
+2025-05-10 08:40:47,W3PHXNA,nurse,retrieve_patient 965888
+2025-05-10 08:40:47,W3PHXNA,nurse,retrieve_patient 992758
+2025-05-10 08:42:12,W3PHXNA,nurse,view_note 992758 587636
+2025-05-10 08:42:41,W3PHXNA,nurse,remove_patient 992758
+2025-05-10 08:42:59,W3PHXNA,nurse,logout
+2025-05-10 08:44:42,USOOUA9,management,login_success
+2025-05-10 08:44:42,USOOUA9,management,login_success
+2025-05-10 08:44:59,USOOUA9,management,logout
+2025-05-10 09:00:50,USOOUA9,management,login_success
+2025-05-10 09:00:50,USOOUA9,management,login_success
+2025-05-10 09:03:12,USOOUA9,management,logout
+2025-05-10 09:26:38,USOOUA9,management,login_success
+2025-05-10 09:26:38,USOOUA9,management,login_success
+2025-05-10 09:26:53,USOOUA9,management,logout
+2025-05-10 09:31:35,USOOUA9,management,login_success
+2025-05-10 09:31:35,USOOUA9,management,login_success
+2025-05-10 09:31:46,USOOUA9,management,logout
+2025-05-10 09:32:27,W3PHXNA,nurse,login_success
+2025-05-10 09:32:27,W3PHXNA,nurse,login_success
+2025-05-10 09:33:10,W3PHXNA,nurse,count_visits on 4/20/2023
+2025-05-10 09:33:52,W3PHXNA,nurse,remove_patient 250132
+2025-05-10 09:34:10,W3PHXNA,nurse,retrieve_patient 250132
+2025-05-10 09:34:25,W3PHXNA,nurse,retrieve_patient 202319
+2025-05-10 09:35:19,W3PHXNA,nurse,view_note 172573 108607
+2025-05-10 09:35:25,W3PHXNA,nurse,logout
+2025-05-10 12:32:49,W3PHXNA,unknown,login_failed
+2025-05-10 12:32:49,W3PHXNA,unknown,login_failed
+2025-05-10 12:33:35,W3PHXNA,nurse,login_success
+2025-05-10 12:33:35,W3PHXNA,nurse,login_success
+2025-05-10 12:36:16,W3PHXNA,nurse,remove_patient 992758
+2025-05-10 12:38:10,W3PHXNA,nurse,retrieve_patient 16755
+2025-05-10 12:38:13,W3PHXNA,nurse,retrieve_patient 16755
+2025-05-10 12:39:19,W3PHXNA,nurse,view_note 16755 591642
+2025-05-10 12:39:21,W3PHXNA,nurse,logout
+2025-05-10 12:43:24,W3PHXNA,nurse,login_success
+2025-05-10 12:43:24,W3PHXNA,nurse,login_success
+2025-05-10 13:14:23,W3PHXNA,nurse,login_success
+2025-05-10 13:14:23,W3PHXNA,nurse,login_success
+2025-05-10 13:15:53,W3PHXNA,nurse,remove_patient 79711
+2025-05-10 13:16:13,W3PHXNA,nurse,retrieve_patient 79711
+2025-05-10 13:16:55,W3PHXNA,nurse,view_note 16755 591642
+2025-05-10 13:17:02,W3PHXNA,nurse,logout
+2025-05-10 13:18:04,USOOUA9,management,login_success
+2025-05-10 13:18:04,USOOUA9,management,login_success
+2025-05-10 13:18:33,USOOUA9,management,logout
+2025-05-10 13:19:24,XF6N0R4,admin,login_success
+2025-05-10 13:19:24,XF6N0R4,admin,login_success
+2025-05-10 13:20:05,XF6N0R4,admin,count_visits on 8/20/2014
+2025-05-10 13:20:07,XF6N0R4,admin,logout
+2025-05-10 13:48:34,USOOUA9,management,login_success
+2025-05-10 13:48:34,USOOUA9,management,login_success
+2025-05-10 13:49:15,USOOUA9,management,logout
+2025-05-10 14:01:21,USOOUA9,management,login_success
+2025-05-10 14:01:21,USOOUA9,management,login_success
+2025-05-10 14:03:36,USOOUA9,management,login_success
+2025-05-10 14:03:36,USOOUA9,management,login_success
+2025-05-10 14:05:27,USOOUA9,management,login_success
+2025-05-10 14:05:27,USOOUA9,management,login_success
+2025-05-10 14:06:18,USOOUA9,management,login_success
+2025-05-10 14:06:18,USOOUA9,management,login_success
+2025-05-10 14:08:53,USOOUA9,management,login_success
+2025-05-10 14:08:53,USOOUA9,management,login_success
+2025-05-10 14:12:38,USOOUA9,management,logout
+2025-05-10 15:02:20,32HEOJI,management,login_success
+2025-05-10 15:02:20,32HEOJI,management,login_success
+2025-05-10 15:02:52,32HEOJI,management,logout
+2025-05-10 15:31:29,32HEOJI,management,login_success
+2025-05-10 15:31:29,32HEOJI,management,login_success
+2025-05-10 15:33:00,USOOUA9,management,login_success
+2025-05-10 15:33:00,USOOUA9,management,login_success
+2025-05-10 22:09:39,W3PHXNA,nurse,login_success
+2025-05-10 22:09:39,W3PHXNA,nurse,login_success
+2025-05-10 22:11:46,W3PHXNA,nurse,add_patient 53277
+2025-05-10 22:11:50,W3PHXNA,nurse,logout
+2025-05-10 23:16:02,XF6N0R4,admin,login_success
+2025-05-10 23:16:02,XF6N0R4,admin,login_success
+2025-05-10 23:16:44,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-10 23:17:01,XF6N0R4,admin,count_visits on 6/13/2016
+2025-05-10 23:17:04,XF6N0R4,admin,logout
+2025-05-10 23:17:51,USOOUA9,management,login_success
+2025-05-10 23:17:51,USOOUA9,management,login_success
+2025-05-10 23:18:08,USOOUA9,management,logout
+2025-05-10 23:18:53,W3PHXNA,nurse,login_success
+2025-05-10 23:18:53,W3PHXNA,nurse,login_success
+2025-05-10 23:19:26,W3PHXNA,nurse,remove_patient 42952
+2025-05-10 23:19:55,W3PHXNA,nurse,view_note 42952 84507
+2025-05-10 23:20:27,W3PHXNA,nurse,retrieve_patient 42952
+2025-05-10 23:20:35,W3PHXNA,nurse,remove_patient 42952
+2025-05-10 23:20:53,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-10 23:20:56,W3PHXNA,nurse,logout
+2025-05-10 23:28:23,XF6N0R4,admin,login_success
+2025-05-10 23:28:23,XF6N0R4,admin,login_success
+2025-05-10 23:28:57,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-10 23:28:59,XF6N0R4,admin,logout
+2025-05-10 23:29:42,USOOUA9,management,login_success
+2025-05-10 23:29:42,USOOUA9,management,login_success
+2025-05-10 23:29:48,USOOUA9,management,logout
+2025-05-10 23:30:16,W3PHXNA,nurse,login_success
+2025-05-10 23:30:16,W3PHXNA,nurse,login_success
+2025-05-10 23:30:51,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-10 23:32:07,W3PHXNA,nurse,add_patient 63838
+2025-05-10 23:32:56,W3PHXNA,nurse,remove_patient 42952
+2025-05-10 23:33:09,W3PHXNA,nurse,retrieve_patient 42952
+2025-05-10 23:33:30,W3PHXNA,nurse,view_note 42952 84507
+2025-05-10 23:33:31,W3PHXNA,nurse,logout
+2025-05-10 23:37:01,XF6N0R4,admin,login_success
+2025-05-10 23:37:01,XF6N0R4,admin,login_success
+2025-05-10 23:37:27,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-10 23:37:31,XF6N0R4,admin,logout
+2025-05-10 23:38:20,W3PHXNA,nurse,login_success
+2025-05-10 23:38:20,W3PHXNA,nurse,login_success
+2025-05-10 23:38:52,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-10 23:39:05,W3PHXNA,nurse,remove_patient 42952
+2025-05-10 23:39:15,W3PHXNA,nurse,retrieve_patient 42952
+2025-05-10 23:39:21,W3PHXNA,nurse,logout
+2025-05-11 07:37:32,XF6N0R4,admin,login_success
+2025-05-11 07:37:32,XF6N0R4,admin,login_success
+2025-05-11 07:38:52,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-11 07:38:53,XF6N0R4,admin,logout
+2025-05-11 07:40:17,USOOUA9,management,login_success
+2025-05-11 07:40:17,USOOUA9,management,login_success
+2025-05-11 07:40:53,USOOUA9,management,logout
+2025-05-11 07:41:30,KX9UDNG,clinician,login_success
+2025-05-11 07:41:30,KX9UDNG,clinician,login_success
+2025-05-11 07:42:09,KX9UDNG,clinician,count_visits on 6/13/2016
+2025-05-11 07:43:09,KX9UDNG,clinician,remove_patient 16758
+2025-05-11 07:43:58,KX9UDNG,clinician,retrieve_patient 16758
+2025-05-11 07:44:40,KX9UDNG,clinician,view_note 16758 165876
+2025-05-11 07:44:43,KX9UDNG,clinician,logout
+2025-05-11 08:07:15,XF6N0R4,admin,login_success
+2025-05-11 08:07:15,XF6N0R4,admin,login_success
+2025-05-11 08:07:53,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-11 08:07:55,XF6N0R4,admin,logout
+2025-05-11 08:08:48,USOOUA9,management,login_success
+2025-05-11 08:08:48,USOOUA9,management,login_success
+2025-05-11 08:09:03,USOOUA9,management,logout
+2025-05-11 08:10:44,W3PHXNA,nurse,login_success
+2025-05-11 08:10:44,W3PHXNA,nurse,login_success
+2025-05-11 08:11:37,W3PHXNA,nurse,remove_patient 42952
+2025-05-11 08:11:42,W3PHXNA,nurse,logout
+2025-05-11 08:21:39,XF6N0R4,unknown,login_file_missing
+2025-05-11 08:21:39,XF6N0R4,unknown,login_failed
+2025-05-11 08:21:51,XF6N0R4,unknown,login_file_missing
+2025-05-11 08:21:51,XF6N0R4,unknown,login_failed
+2025-05-11 08:22:16,USOOUA9,unknown,login_file_missing
+2025-05-11 08:22:16,USOOUA9,unknown,login_failed
+2025-05-11 08:22:21,system,system,application_exit
+2025-05-11 08:26:01,XF6N0R4,unknown,login_file_missing
+2025-05-11 08:26:01,XF6N0R4,unknown,login_failed
+2025-05-11 08:26:49,XF6N0R4,unknown,login_file_missing
+2025-05-11 08:26:49,XF6N0R4,unknown,login_failed
+2025-05-11 08:26:52,system,system,application_exit
+2025-05-11 08:36:30,XF6N0R4,"('XF6N0R4', 'admin')",login_success
+2025-05-11 08:36:39,XF6N0R4,"('XF6N0R4', 'admin')",logout
+2025-05-11 08:37:29,USOOUA9,"('USOOUA9', 'management')",login_success
+2025-05-11 08:37:31,USOOUA9,"('USOOUA9', 'management')",logout
+2025-05-11 08:38:00,W3PHXNA,"('W3PHXNA', 'nurse')",login_success
+2025-05-11 08:38:02,W3PHXNA,"('W3PHXNA', 'nurse')",logout
+2025-05-11 08:47:23,XF6N0R4,"('XF6N0R4', 'admin')",login_success
+2025-05-11 08:57:48,XF6N0R4,"('XF6N0R4', 'admin')",logout
+2025-05-11 09:03:15,XF6N0R4,admin,login_success
+2025-05-11 09:03:20,XF6N0R4,admin,logout
+2025-05-11 09:03:51,W3PHXNA,nurse,login_success
+2025-05-11 09:03:56,W3PHXNA,nurse,logout
+2025-05-11 09:04:30,USOOUA9,management,login_success
+2025-05-11 09:04:33,USOOUA9,management,logout
+2025-05-11 09:04:59,KX9UDNG,clinician,login_success
+2025-05-11 09:05:02,KX9UDNG,clinician,logout
+2025-05-11 09:05:37,XF6N0R4,admin,login_success
+2025-05-11 09:06:19,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-11 09:06:21,XF6N0R4,admin,logout
+2025-05-11 09:07:14,USOOUA9,management,login_success
+2025-05-11 09:07:29,USOOUA9,management,logout
+2025-05-11 09:08:48,W3PHXNA,nurse,login_success
+2025-05-11 09:09:23,W3PHXNA,nurse,count_visits on 6/13/2016
+2025-05-11 09:11:28,W3PHXNA,nurse,add_patient 29447
+2025-05-11 09:14:07,W3PHXNA,nurse,login_success
+2025-05-11 09:15:24,W3PHXNA,nurse,remove_patient 29447
+2025-05-11 09:15:47,W3PHXNA,nurse,retrieve_patient 29447
+2025-05-11 09:16:13,W3PHXNA,nurse,view_note 29447 337654
+2025-05-11 09:16:38,W3PHXNA,nurse,view_note 42952 84507
+2025-05-11 09:17:06,W3PHXNA,nurse,view_note 50194 500834
+2025-05-11 09:17:13,W3PHXNA,nurse,logout
+2025-05-11 09:44:17,W3PHXNA,nurse,login_success
+2025-05-11 09:45:11,W3PHXNA,nurse,view_note 16755 591642
+2025-05-11 09:45:46,W3PHXNA,nurse,view_note 29447 296075
+2025-05-11 09:46:40,W3PHXNA,nurse,count_visits on 4/10/2020
+2025-05-11 09:47:03,W3PHXNA,nurse,remove_patient 42952
+2025-05-11 09:47:31,W3PHXNA,nurse,retrieve_patient 42952
+2025-05-11 09:48:01,W3PHXNA,nurse,view_note 42952 657415
+2025-05-11 09:48:54,W3PHXNA,nurse,view_note 29447 337654
+2025-05-11 09:49:01,W3PHXNA,nurse,logout
+2025-05-11 09:49:10,system,system,application_exit
+2025-05-11 09:49:19,system,system,application_exit
+2025-05-11 19:41:43,XF6N0R4,admin,login_success
+2025-05-11 19:42:12,XF6N0R4,admin,count_visits on 4/20/2023
+2025-05-11 19:42:15,XF6N0R4,admin,logout
+2025-05-11 19:43:18,USOOUA9,management,login_success
+2025-05-11 19:44:16,USOOUA9,management,logout
+2025-05-11 19:44:50,W3PHXNA,nurse,login_success
+2025-05-11 19:47:58,W3PHXNA,nurse,add_patient 16755
+2025-05-11 19:48:26,W3PHXNA,nurse,view_note 16758 118326
+2025-05-11 19:48:28,W3PHXNA,nurse,logout
+2025-05-11 19:50:58,KX9UDNG,clinician,login_success
+2025-05-11 19:53:09,KX9UDNG,clinician,add_patient 992758
+2025-05-11 19:53:11,KX9UDNG,clinician,logout
+2025-05-13 12:05:40,system,system,application_exit
+2025-05-13 12:07:25,XF6N0R4,admin,login_success
+2025-05-13 12:07:59,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-13 12:08:01,XF6N0R4,admin,logout
+2025-05-13 12:08:43,W3PHXNA,nurse,login_success
+2025-05-13 12:09:25,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-13 12:11:27,W3PHXNA,nurse,add_patient 17556
+2025-05-13 12:11:59,W3PHXNA,nurse,remove_patient 992758
+2025-05-13 12:12:12,W3PHXNA,nurse,retrieve_patient 992758
+2025-05-13 12:12:44,W3PHXNA,nurse,view_note 992758 587636
+2025-05-13 12:12:48,W3PHXNA,nurse,logout
+2025-05-13 12:13:39,USOOUA9,management,login_success
+2025-05-13 12:22:58,USOOUA9,management,login_success
+2025-05-13 12:31:39,USOOUA9,management,login_success
+2025-05-13 19:27:48,USOOUA9,management,login_success
+2025-05-13 19:28:21,system,system,application_exit
+2025-05-13 19:30:20,W3PHXNA,nurse,login_success
+2025-05-13 19:31:06,W3PHXNA,nurse,count_visits on 7/13/2011
+2025-05-13 19:31:28,W3PHXNA,nurse,remove_patient 16758
+2025-05-13 19:32:07,W3PHXNA,nurse,view_note 16755 890528
+2025-05-13 19:32:12,W3PHXNA,nurse,logout
+2025-05-13 19:35:13,USOOUA9,management,login_success
+2025-05-13 22:02:13,USOOUA9,management,login_success
+2025-05-13 22:02:59,system,system,application_exit
+2025-05-13 22:03:04,USOOUA9,management,logout
+2025-05-13 22:05:09,XF6N0R4,admin,login_success
+2025-05-13 22:05:32,XF6N0R4,admin,count_visits on 7/13/2011
+2025-05-13 22:06:08,W3PHXNA,nurse,login_success
+2025-05-13 22:06:19,system,system,application_exit
+2025-05-13 22:06:31,W3PHXNA,nurse,logout
+2025-05-13 22:06:31,XF6N0R4,admin,logout
+2025-05-13 22:07:04,USOOUA9,management,login_success
+2025-05-13 22:07:19,system,system,application_exit
+2025-05-13 22:07:22,USOOUA9,management,logout
+2025-05-13 22:16:32,USOOUA9,management,login_success
+2025-05-13 22:38:49,USOOUA9,management,login_success
+2025-05-13 22:39:07,system,system,application_exit
+2025-05-13 22:40:01,USOOUA9,management,logout
+2025-05-13 22:40:31,USOOUA9,management,login_success
+2025-05-13 22:40:44,system,system,application_exit
+2025-05-13 22:40:47,USOOUA9,management,logout
+2025-05-13 22:41:56,USOOUA9,management,login_success
+2025-05-13 22:44:25,W3PHXNA,nurse,login_success
+2025-05-13 22:44:54,KX9UDNG,clinician,login_success
+2025-05-13 22:45:23,XF6N0R4,admin,login_success
+2025-05-13 22:45:53,XF6N0R4,admin,count_visits on 6/13/2016
+2025-05-13 22:45:55,system,system,application_exit
+2025-05-13 22:46:01,XF6N0R4,admin,logout
+2025-05-13 22:46:01,KX9UDNG,clinician,logout
+2025-05-13 22:46:01,W3PHXNA,nurse,logout
+2025-05-13 22:46:01,USOOUA9,management,logout
+2025-05-13 22:49:32,USOOUA9,management,login_success
+2025-05-13 22:50:35,system,system,application_exit
+2025-05-13 22:50:36,USOOUA9,management,logout
+2025-05-13 23:06:26,USOOUA9,management,login_success
+2025-05-13 23:06:39,system,system,application_exit
+2025-05-13 23:06:39,USOOUA9,management,logout
+2025-05-13 23:16:12,32HEOJI,management,login_success
+2025-05-13 23:32:28,32HEOJI,management,login_success
+2025-05-13 23:34:36,USOOUA9,management,login_success
+2025-05-13 23:39:20,USOOUA9,management,login_success
+2025-05-13 23:42:11,USOOUA9,management,login_success
+2025-05-13 23:43:46,USOOUA9,management,login_success
+2025-05-14 09:02:11,USOOUA9,management,login_success
+2025-05-14 09:15:49,USOOUA9,management,login_success
+2025-05-14 09:31:19,USOOUA9,management,login_success
+2025-05-14 09:41:09,USOOUA9,management,login_success
+2025-05-14 09:41:15,USOOUA9,management,generated_dashboard
+2025-05-14 09:43:05,W3PHXNA,nurse,login_success
+2025-05-14 09:43:28,W3PHXNA,nurse,count_visits on 6/13/2016
+2025-05-14 12:15:16,USOOUA9,management,login_success
+2025-05-14 12:15:29,USOOUA9,management,generated_dashboard
+2025-05-14 12:16:51,W3PHXNA,nurse,login_success
