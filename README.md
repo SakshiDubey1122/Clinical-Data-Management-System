@@ -12,7 +12,7 @@ Key Features
 - View Statistics & Dashboard (for Management)
 - Usage Logging
 - Visual Stats Dashboard auto-generated in output/
-
+```
 Repository Structure
 ├── data/
 │   ├── Patient_data.csv         # Patient demographic & visit data
@@ -32,7 +32,7 @@ Repository Structure
 ├── dashboard_generator.py      # Generates management-only dashboard
 ├── UML_Diagram.png             # Class diagram for the project
 ├── README.md                   # This file
-└── requirements.txt            # Python dependencies
+└── requirements.txt            # Python dependencies                 ```
 
 1- How to Run
 bash
